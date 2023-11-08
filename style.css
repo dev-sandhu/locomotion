@@ -354,7 +354,7 @@ html {
   font-size: 1.6rem;
   font-weight: 500;
   color: var(--light-grey-color);
-  margin: 2rem 0;
+  margin: 1.5rem 0;
   border-bottom: 0.1rem solid var(--primary-color);
   padding-bottom: 1.5rem;
 }
@@ -495,7 +495,7 @@ html {
 }
 
 .story-paragraph::first-letter {
-  margin-left: 1rem;
+  margin-left: 0rem;
 }
 /* End of Stories */
 
